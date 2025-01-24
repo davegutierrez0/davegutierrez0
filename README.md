@@ -4,7 +4,7 @@ I'm a passionate **Software Engineer** on a mission to sprinkle a little magic i
 
 ## What I Do:
 - Crafting delightful web applications that dazzle users
-- Diving deep into the realms of **Machine Learning** and **Data Science**
+- Diving deep into the realms of **Machine Learning** and **Large Language Models**
 - Collaborating with brilliant minds to build innovative solutions
 
 ## Fun Facts About Me:

@@ -1,16 +1,15 @@
-# Hey there! 👋
+## Hey, I’m David
 
-I'm David Gutiérrez, a software engineer who loves building cool stuff on the web. I spend my days turning ideas into working code, and honestly? It never gets old.
+I’m a senior software engineer interested in the parts of life that are hard to measure and building tools to help us find our way back to our bodies.
 
-## What I'm into:
-I build web applications that people actually enjoy using, work with machine learning and LLMs (because that stuff is fascinating), and team up with other developers to solve interesting problems.
+Lately, that has meant teaching an Apple Watch to capture emotion, turning personal progress into an RPG and experimenting with lower-dopamine ways to use technology. 
 
+Some of these projects are practical. 
 
-## Fun Facts About Me:
-You'll probably find me with a coffee in hand ☕ (or matcha, or yerba mate, or any number of other brews), out on a hiking trail or deep in a good book 📚, and always keeping my eyes open for the next interesting project or challenge.
+A few border on unhinged delusion.
 
-Feel free to reach out if you want to chat about tech, collaborate on something, or just say hi!
+I work across web apps, Swift, machine learning, and LLMs. I’m drawn to technology that supports what makes us human instead of replacing it.
 
+Away from the screen, I’m usually playing pickleball, reading, or running with my dog. 
 
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/davegutierrez0?theme=nord&font=Modern%20Antiqua&ext=heatmap)
+More to come. 
